@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🔭 I’m currently working on making myself a simple filmmaking utility app for android to learn how to code
+- 🌱 I’m currently learning git / kotlin / js
+- I'm the worst coder on GitHub!
 
 <!--
 **Augraff/Augraff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
